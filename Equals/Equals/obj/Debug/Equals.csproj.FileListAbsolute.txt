@@ -1,0 +1,7 @@
+C:\Users\shanek\source\repos\Equals\Equals\bin\Debug\Equals.exe.config
+C:\Users\shanek\source\repos\Equals\Equals\bin\Debug\Equals.exe
+C:\Users\shanek\source\repos\Equals\Equals\bin\Debug\Equals.pdb
+C:\Users\shanek\source\repos\Equals\Equals\obj\Debug\Equals.csproj.AssemblyReference.cache
+C:\Users\shanek\source\repos\Equals\Equals\obj\Debug\Equals.csproj.CoreCompileInputs.cache
+C:\Users\shanek\source\repos\Equals\Equals\obj\Debug\Equals.exe
+C:\Users\shanek\source\repos\Equals\Equals\obj\Debug\Equals.pdb
