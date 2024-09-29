@@ -1,0 +1,7 @@
+\\Mac\Home\Downloads\Equals With CompareTo - Comparison - Comparer Added\Equals\bin\Debug\Equals.exe.config
+\\Mac\Home\Downloads\Equals With CompareTo - Comparison - Comparer Added\Equals\bin\Debug\Equals.exe
+\\Mac\Home\Downloads\Equals With CompareTo - Comparison - Comparer Added\Equals\bin\Debug\Equals.pdb
+\\Mac\Home\Downloads\Equals With CompareTo - Comparison - Comparer Added\Equals\obj\Debug\Equals.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\Equals With CompareTo - Comparison - Comparer Added\Equals\obj\Debug\Equals.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\Equals With CompareTo - Comparison - Comparer Added\Equals\obj\Debug\Equals.exe
+\\Mac\Home\Downloads\Equals With CompareTo - Comparison - Comparer Added\Equals\obj\Debug\Equals.pdb
